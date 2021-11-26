@@ -11,3 +11,4 @@ elif sueldo >500000 and sueldo <= 850000:
     print("su bono es de $50.000-")   
 else:
     print("Fuera de rango-")  
+
